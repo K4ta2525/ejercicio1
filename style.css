@@ -144,7 +144,7 @@ color: black;
 .layout-contacto-redes{
     display: flex;
     margin: 100px;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     gap: 58px;
 }
