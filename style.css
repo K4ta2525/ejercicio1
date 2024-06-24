@@ -199,19 +199,27 @@ background: url(./images/pngtree-fox-logo-vector-design-png-image_14609907-remov
 .descripcion-identidad-xl{
     display: flex;
 width: 164px;
-margin-top: 50px;
+margin-top: 100px;
 flex-direction: row;
 justify-content: center;
 align-items: flex-start;
-gap: 30px;
+gap: 70px;
 }
 .identidad-persona{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     flex-shrink: 0;
-    gap: 7px;
+    height: 140.81px;
+
 }
+.identidad-persona p{
+margin: 0;
+padding: 0;
+margin-bottom: 8px;
+}
+
+
 .descripcion-xl{
     display: flex;
 padding: 0px 68px;
